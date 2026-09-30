@@ -35,4 +35,12 @@
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0221-maximal-square) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
