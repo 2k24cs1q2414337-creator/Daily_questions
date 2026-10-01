@@ -43,4 +43,16 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0278-first-bad-version) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
