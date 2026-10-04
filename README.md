@@ -10,6 +10,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0860-lemonade-change) |
 ## Divide and Conquer
 |  |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0221-maximal-square) |
+| [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
 | ------- |
@@ -47,12 +49,15 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
