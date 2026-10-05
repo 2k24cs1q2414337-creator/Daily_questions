@@ -4,12 +4,14 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0055-jump-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0221-maximal-square) |
 | [0860-lemonade-change](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0860-lemonade-change) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0860-lemonade-change) |
 ## Divide and Conquer
@@ -31,6 +33,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0055-jump-game) |
 | [0221-maximal-square](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0221-maximal-square) |
 | [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
