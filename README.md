@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0055-jump-game) |
+| [0200-number-of-islands](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0221-maximal-square) |
 | [0860-lemonade-change](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0860-lemonade-change) |
@@ -39,6 +40,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0221-maximal-square) |
 ## Binary Search
 |  |
@@ -63,4 +65,16 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
