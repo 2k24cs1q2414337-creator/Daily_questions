@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
