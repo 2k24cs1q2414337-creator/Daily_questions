@@ -56,16 +56,19 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1021-remove-outermost-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
