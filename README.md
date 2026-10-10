@@ -10,6 +10,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0221-maximal-square) |
 | [0860-lemonade-change](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0860-lemonade-change) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0860-lemonade-change) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,10 +27,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
@@ -48,6 +52,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0278-first-bad-version) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Interactive
 |  |
 | ------- |
