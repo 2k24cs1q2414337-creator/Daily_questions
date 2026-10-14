@@ -12,6 +12,7 @@
 | [0695-max-area-of-island](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0860-lemonade-change) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Greedy
@@ -108,4 +109,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
