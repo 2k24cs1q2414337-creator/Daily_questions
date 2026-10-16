@@ -9,6 +9,7 @@
 | [0200-number-of-islands](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0221-maximal-square) |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0860-lemonade-change) |
@@ -27,20 +28,24 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +110,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -117,4 +123,12 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
