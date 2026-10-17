@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
@@ -62,6 +63,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0278-first-bad-version) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Interactive
@@ -118,10 +120,12 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bucket Sort
 |  |
