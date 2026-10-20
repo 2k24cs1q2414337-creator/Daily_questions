@@ -15,6 +15,7 @@
 | [0733-flood-fill](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0860-lemonade-change) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Greedy
@@ -35,6 +36,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -65,6 +67,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0278-first-bad-version) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Interactive
 |  |
