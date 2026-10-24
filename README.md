@@ -10,6 +10,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0560-subarray-sum-equals-k) |
@@ -121,6 +122,7 @@
 | [0001-two-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0560-subarray-sum-equals-k) |
 ## Enumeration
@@ -132,6 +134,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
