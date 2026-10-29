@@ -94,6 +94,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -168,8 +169,10 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
