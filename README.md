@@ -17,6 +17,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0860-lemonade-change) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -96,6 +97,7 @@
 | [0225-implement-stack-using-queues](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
@@ -175,4 +177,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
