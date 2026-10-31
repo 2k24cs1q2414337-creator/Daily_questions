@@ -19,6 +19,7 @@
 | [0733-flood-fill](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0860-lemonade-change) |
+| [0994-rotting-oranges](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0994-rotting-oranges) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -70,6 +71,7 @@
 | [0221-maximal-square](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0200-number-of-islands](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
