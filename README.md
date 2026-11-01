@@ -14,6 +14,7 @@
 | [0221-maximal-square](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0733-flood-fill) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
