@@ -117,6 +117,7 @@
 | [0200-number-of-islands](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -124,12 +125,14 @@
 | [0200-number-of-islands](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0785-is-graph-bipartite) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,4 +196,13 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0133-clone-graph) |
+| [0785-is-graph-bipartite](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
