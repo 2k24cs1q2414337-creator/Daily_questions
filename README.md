@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0221-maximal-square) |
 | [0678-valid-parenthesis-string](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
