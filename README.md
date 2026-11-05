@@ -22,6 +22,7 @@
 | [0735-asteroid-collision](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0994-rotting-oranges) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -47,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
@@ -81,6 +83,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0278-first-bad-version) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Interactive
@@ -207,4 +210,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0785-is-graph-bipartite) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
