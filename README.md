@@ -27,6 +27,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Greedy
 |  |
@@ -51,6 +52,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2747-count-zero-request-servers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0268-missing-number](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0560-subarray-sum-equals-k) |
+| [2747-count-zero-request-servers](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2747-count-zero-request-servers) |
 ## Enumeration
 |  |
 | ------- |
@@ -160,6 +163,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2747-count-zero-request-servers](https://github.com/2k24cs1q2414337-creator/Daily_questions/tree/master/2747-count-zero-request-servers) |
 ## Prefix Sum
 |  |
 | ------- |
